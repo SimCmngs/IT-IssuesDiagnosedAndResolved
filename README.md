@@ -9,7 +9,7 @@
 > 05. Automated software installations for new PCs with Windows package manager (Winget)
 > 06. Resolved "Hyper-V" virtual machine errors (input keys not working, startup problems)
 > 07. Fixed web browser issues: "Content Not Loading/JavaScript Blocked"
-> 08. Guided a user through their email transfer "from-AOL-to-Outlook"
+> 08. Guided user through their email transfer "from-AOL-to-Outlook"
 > 09. Set up cloud storage solutions, to backup/sync local files (OneDrive/Google Drive/MEGA)
 > 10. Scheduled system image backup and restore points for Windows OS devices
 > 11. Recovered unsaved documents (Word/Excel/PowerPoint)
