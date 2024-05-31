@@ -86,6 +86,6 @@
 > 70. Scheduled Windows Server Backups to Azure 
 > 71. Assigned RBAC roles to users, for managing access to Azure resources
 > 72. Provisioned cloud resources via infrastructure as code (PowerShell, ARM Templates)
-> 73. Synchronized files between (on-prem) file server and Azure 
+> 73. Synchronized files between local file server and Azure 
 > 74. Configured metric alerts to detect performance issues with virtual machines
 > 75. Configured real-time notifications for monitoring virtual servers
