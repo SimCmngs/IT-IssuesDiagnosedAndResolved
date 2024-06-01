@@ -1,4 +1,10 @@
-# Diagnosed and Resolved 75+ Common IT Issues - LISTED
+# 75+ Common IT Issues: Diagnosed and Resolved
+
+*75 common IT issues that were resolved whilst managing a virtual help desk.* 
+
+> *(Bootcamp training experience included)*
+
+---
 
 [ SOFTWARE ] 
 
@@ -83,9 +89,9 @@
 > 67. Deployed applications to Intune-managed devices
 > 68. Managed site permissions for a SharePoint Online site
 > 69. Implemented self-service password resets for Entra ID users
-> 70. Scheduled Windows Server Backups to Azure 
+> 70. Scheduled Windows Server Backups to Azure RSV
 > 71. Assigned RBAC roles to users, for managing access to Azure resources
 > 72. Provisioned cloud resources via infrastructure as code (PowerShell, ARM Templates)
-> 73. Synchronized files between local file server and Azure 
+> 73. Synchronized files between local file server and Azure Files storage
 > 74. Configured metric alerts to detect performance issues with virtual machines
 > 75. Configured real-time notifications for monitoring virtual servers
