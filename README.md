@@ -3,8 +3,8 @@
 *75 common IT issues that were resolved whilst managing a virtual help desk.* 
 
 > *(Bootcamp training experience included)*
->
-> **Videos:** - *No audio due to GitHub's upload size limitations.*
+> 
+> **Videos:** *No audio due to GitHub's upload size limitations.*
 
 ---
 
