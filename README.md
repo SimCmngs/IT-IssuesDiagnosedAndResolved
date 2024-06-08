@@ -3,6 +3,8 @@
 *75 common IT issues that were resolved whilst managing a virtual help desk.* 
 
 > *(Bootcamp training experience included)*
+>
+> **Videos:** - *No audio due to GitHub's upload size limitations.*
 
 ---
 
@@ -29,6 +31,8 @@
 > 19. Documented common problems and solutions into a knowledge base
 > 20. Developed support documentation (using step-recorders, documentation builders, etc)
 
+https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved/assets/166608651/47baa9ca-3e80-4342-9fc9-87395a825923
+
 [ HARDWARE ] 
 
 > 21. Assembled PCs and performed hardware upgrades (CPU, memory, storage, graphics)
@@ -41,6 +45,8 @@
 > 28. Resolved microphone/audio issues
 > 29. Set up peripheral devices (keyboard, mouse, scanners, etc)
 > 30. Replaced malfunctioning case fans and faulty peripherals
+
+https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved/assets/166608651/d09252cf-0404-4bb9-b630-27ec69d809c1
 
 [ NETWORKING ] 
 
@@ -59,6 +65,8 @@
 > 43. Implemented a load balancer to distribute incoming network traffic across multiple VMs
 > 44. Set up virtual networking components for a web app environment (VNETs, Subnets, Peering, AppGateway)
 
+https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved/assets/166608651/6d0b7974-86d1-42ec-a0b1-1353a94a7fae
+
 [ SECURITY ] 
 
 > 45. Deployed endpoint antivirus packages, to client devices
@@ -75,6 +83,8 @@
 > 56. Performed software patches and updates (for drivers/apps/OS's)
 > 57. Configured anti-malware and internet security software across devices
 > 58. Enabled web-filtering/pop-up blockers to prevent access to malicious websites
+
+https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved/assets/166608651/1f6cc68d-dab7-42b5-8796-d4ae7995160b
 
 [ CLOUD ] 
 
@@ -95,3 +105,5 @@
 > 73. Synchronized files between local file server and Azure Files storage
 > 74. Configured metric alerts to detect performance issues with virtual machines
 > 75. Configured real-time notifications for monitoring virtual servers
+
+https://github.com/SimCmngs/IT-IssuesDiagnosedAndResolved/assets/166608651/f6b6a0d2-fbc3-477b-98d1-fb515e53b2d6
