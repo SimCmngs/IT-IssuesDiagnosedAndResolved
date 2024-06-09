@@ -5,6 +5,7 @@
 > *(Bootcamp training experience included)*
 > 
 > **Videos:** *No audio due to GitHub's upload size limitations.*
+> > *(If a video doesn't play, refresh the page once and try again, it should work then)*
 
 ---
 
